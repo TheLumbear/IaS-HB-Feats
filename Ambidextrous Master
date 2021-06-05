@@ -1,0 +1,51 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "IaS",
+				"abbreviation": "Brew",
+				"full": "IaS-HB-Feats",
+				"authors": [
+					"Lumbear"
+				],
+				"version": "1.0.0",
+				"url": "https://github.com/TheLumbear/IaS-HB-Feats.git",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 0,
+		"dateLastModified": 0
+	},
+	"feat": [
+		{
+			"name": "Ambidextrous Master",
+			"source": "IaS-HB-Feats",
+			"prerequisite": [
+			],
+			"entries": [
+				"You know how to utilize both hands while fighting in a fast and efficient way. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"When not wearing heavy or medium armour you may make one attack with your off hand weapon as part of the attack action instead of as a bonus action.",
+						"You may as a bonus action enter a defensive stance that will increase your AC by 1 for each weapon you are wielding against melee weapon attacks until the start of your next turn."
+						"You may make an additional object interaction per turn for free."
+					]
+				}
+			]
+		},
+		
+	]
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
